@@ -1,0 +1,10 @@
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\obj\Debug\BankManagment.csprojAssemblyReference.cache
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.CoreCompileInputs.cache
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\bin\Debug\BankManagment.exe.config
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\bin\Debug\BankManagment.exe
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\bin\Debug\BankManagment.pdb
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\bin\Debug\BankManagmentBL.dll
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\bin\Debug\BankManagmentBL.pdb
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.CopyComplete
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\obj\Debug\BankManagment.exe
+D:\LTTS\CSharpTraining\BankManagment\BankManagment\obj\Debug\BankManagment.pdb

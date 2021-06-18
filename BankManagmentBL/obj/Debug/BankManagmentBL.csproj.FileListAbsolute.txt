@@ -1,0 +1,6 @@
+D:\LTTS\CSharpTraining\BankManagment\BankManagmentBL\bin\Debug\BankManagmentBL.dll
+D:\LTTS\CSharpTraining\BankManagment\BankManagmentBL\bin\Debug\BankManagmentBL.pdb
+D:\LTTS\CSharpTraining\BankManagment\BankManagmentBL\obj\Debug\BankManagmentBL.csprojAssemblyReference.cache
+D:\LTTS\CSharpTraining\BankManagment\BankManagmentBL\obj\Debug\BankManagmentBL.csproj.CoreCompileInputs.cache
+D:\LTTS\CSharpTraining\BankManagment\BankManagmentBL\obj\Debug\BankManagmentBL.dll
+D:\LTTS\CSharpTraining\BankManagment\BankManagmentBL\obj\Debug\BankManagmentBL.pdb
